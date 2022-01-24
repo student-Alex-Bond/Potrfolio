@@ -22,9 +22,6 @@ const Skills = () => {
                    <Skill title={'Html'} description={description}/>
                    <Skill title={'CSS'} description={description}/>
                    <Skill title={'React'} description={description}/>
-                   <Skill title={'React'} description={description}/>
-                   <Skill title={'React'} description={description}/>
-                   <Skill title={'React'} description={description}/>
                 </div>
             </div>
 

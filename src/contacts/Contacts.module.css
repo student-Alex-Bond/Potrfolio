@@ -1,0 +1,27 @@
+.contactsBlock{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.form {
+    width: 50%;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.form input{
+    height: 40px;
+}
+.form textarea{
+    height: 150px;
+}
+.btn{
+    border: none;
+    height: 35px;
+    width: 150px;
+    background-color: #ffd4f0;
+    cursor: pointer;
+}

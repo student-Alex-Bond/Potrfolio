@@ -4,6 +4,10 @@ import './App.module.css';
 import Header from "./header/Header";
 import Main from "./main/Main";
 import Skills from "./skills/Skills";
+import Projects from "./propjects/Projects";
+import Hiring from "./hiring/Hiring";
+import Contacts from "./contacts/Contacts";
+import Footer from "./footer/Footer";
 
 function App() {
     return (
@@ -11,6 +15,10 @@ function App() {
             <Header/>
             <Main/>
             <Skills/>
+            <Projects/>
+            <Hiring/>
+            <Contacts/>
+            <Footer/>
         </div>
     );
 }

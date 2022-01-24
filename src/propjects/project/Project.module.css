@@ -1,0 +1,40 @@
+.project{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+
+}
+.picture{
+    width: 270px;
+    height: 320px;
+    background-color: darkgrey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.title{
+    border: 1px solid;
+width: 85%;
+}
+.description{
+    border: 1px solid;
+    width: 85%;
+}
+.btn{
+    width: 90px;
+    height: 30px;
+    background-color: #ffd4f0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.btn:hover{
+    transform: scale(1.1);
+}
+
+.btn a{
+    text-decoration: none;
+}
