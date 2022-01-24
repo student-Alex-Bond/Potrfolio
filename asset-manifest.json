@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Potrfolio/static/css/main.6f3999d6.css",
+    "main.js": "/Potrfolio/static/js/main.7ea22951.js",
+    "static/js/787.c5511b6d.chunk.js": "/Potrfolio/static/js/787.c5511b6d.chunk.js",
+    "index.html": "/Potrfolio/index.html",
+    "main.6f3999d6.css.map": "/Potrfolio/static/css/main.6f3999d6.css.map",
+    "main.7ea22951.js.map": "/Potrfolio/static/js/main.7ea22951.js.map",
+    "787.c5511b6d.chunk.js.map": "/Potrfolio/static/js/787.c5511b6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f3999d6.css",
+    "static/js/main.7ea22951.js"
+  ]
+}
